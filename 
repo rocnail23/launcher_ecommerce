@@ -1,0 +1,95 @@
+[33mcommit 8dd400a911929591ccc38e7cf2dd50d56959e986[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/fin-seccion-12[m[33m)[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Tue Mar 12 12:00:20 2024 -0400
+
+    Update environment variables and add database and JWT secret
+
+[33mcommit 498b84349b33784ea834821a59af995dc1f0a811[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Tue Mar 12 10:00:01 2024 -0400
+
+    Update subproject commits and change auth-ms port
+
+[33mcommit f574046d9cedc6556ea0fbaa9891d882837ffe2b[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Tue Mar 12 09:11:31 2024 -0400
+
+    Update auth-ms subproject commit
+
+[33mcommit f041c1c4a4c9934b459d07eba6dcb937c445fa08[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Tue Mar 12 09:11:28 2024 -0400
+
+    Add auth-ms submodule
+
+[33mcommit a65255f487da3f9186dbb1c44c77733a9fd739c8[m[33m ([m[1;31morigin/fin-seccion-11[m[33m)[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Fri Mar 8 11:42:12 2024 -0500
+
+    Update subproject commits in orders-ms and payments-ms
+
+[33mcommit f70d5d7f0947af46ffde335602e454fce599fa6b[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Fri Mar 8 09:08:47 2024 -0500
+
+    Update subproject commits in orders-ms and payments-ms
+
+[33mcommit 15bbb47001d42de937d15af5c11d232789227750[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Thu Mar 7 15:33:53 2024 -0500
+
+    Add payments microservice configuration
+
+[33mcommit 256f9be91c06bf1ca418a27c48ca73446cfcce84[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Thu Mar 7 15:33:45 2024 -0500
+
+    Add payments microservice submodule
+
+[33mcommit bb2055c1ae27c780e08701915758bbe4958ddb3c[m[33m ([m[1;31morigin/fin-seccion-09[m[33m)[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Wed Mar 6 13:21:46 2024 -0500
+
+    Update subproject commit hash
+
+[33mcommit 688aca18ff3f0ebd91c35a789b074163b947bc1d[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Wed Mar 6 13:18:03 2024 -0500
+
+    Update README.md with instructions for rebuilding submodules
+
+[33mcommit 467cc748f89b8922a10a7bca6b354194abcde30f[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Wed Mar 6 12:26:28 2024 -0500
+
+    add orders-ms submodule
+
+[33mcommit 0866668d3db931554840a9c4b848874ebdb714fc[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Wed Mar 6 12:25:12 2024 -0500
+
+    add products-ms submodule
+
+[33mcommit dc1dca8492344e66e4c75d25b2cdbed1abb8a3c3[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Wed Mar 6 12:18:48 2024 -0500
+
+    Update client-gateway subproject commit
+
+[33mcommit a5cbe710de3e015b1905de31b991e41f9f61b753[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Wed Mar 6 12:16:23 2024 -0500
+
+    Update client-gateway subproject commit
+
+[33mcommit 47633d834df1565d02c084d60b1dd23a3e69ac5d[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Wed Mar 6 12:05:11 2024 -0500
+
+    add client-gateway submodule
+
+[33mcommit b6771c3c925a1eca20dbc3396ce07e21caaf8846[m
+Author: Fernando Herrera <fernando.herrera85@gmail.com>
+Date:   Wed Mar 6 12:01:47 2024 -0500
+
+    first commit
